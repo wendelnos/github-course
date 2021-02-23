@@ -10,3 +10,5 @@ mais um teste!
 <botão do paypall para doações>
 <nao entendi com fazer a modificação e enviar para o github>
 <eu entendi, mas agora estou tentando entender como funciona o add>
+
+<testando o comando tags>
