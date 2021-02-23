@@ -12,5 +12,3 @@ mais um teste!
 <eu entendi, mas agora estou tentando entender como funciona o add>
 
 <testando o comando tags>
-
-[testando agora o git revert]
